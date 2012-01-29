@@ -7,6 +7,12 @@
   <version>0.7</version>
   <dependencies>
     <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>2.5</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.googlecode.aluminumproject</groupId>
       <artifactId>aluminum-core</artifactId>
       <version>0.7</version>

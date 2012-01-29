@@ -5,4 +5,12 @@
   <groupId>com.googlecode.aluminumproject</groupId>
   <artifactId>aluminum-core</artifactId>
   <version>0.7</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
