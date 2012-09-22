@@ -2,9 +2,8 @@
 <metadata>
   <groupId>com.googlecode.aluminumproject</groupId>
   <artifactId>aluminum-core</artifactId>
+  <version>0.5</version>
   <versioning>
-    <latest>0.8</latest>
-    <release>0.5</release>
     <versions>
       <version>0.5</version>
       <version>0.6</version>
